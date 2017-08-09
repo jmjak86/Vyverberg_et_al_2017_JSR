@@ -94,7 +94,7 @@ lines(area.ratio,polypredicted.intervals[,2],col='black',lwd=1)
 lines(area.ratio,polypredicted.intervals[,3],col='black',lwd=1)
 
 # Add a legend
-legend("bottomright",c("Observ.","Predicted"), 
+legend("topleft",c("Observ.","Predicted"), 
        col=c("deepskyblue4","green"), lwd=3)
 ```
 
@@ -128,7 +128,7 @@ lines(u,splinepredicted.interval[,2],col='red',lwd=1)
 lines(u,splinepredicted.interval[,3],col='red',lwd=1)
 
 # Add a legend
-legend("bottomright",c("Observ.","Predicted"), 
+legend("topleft",c("Observ.","Predicted"), 
        col=c("black","green"), lwd=3)
 ```
 The last step is to develop uncertainty in % LMC for a given area ratio, spline model.
