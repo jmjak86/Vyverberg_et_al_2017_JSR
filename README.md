@@ -1,4 +1,4 @@
-# Vyverberg_et_al_2017_JSR
+# Vyverberg_et_al_2018_JSR
 
 ## Author
 John M. Jaeger (jaeger@geology.ufl.edu)
